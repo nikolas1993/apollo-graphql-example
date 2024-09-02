@@ -11,3 +11,6 @@ A examples and tutorials collection about Apollo GraphQL. The laguage used is py
 You can run an application using these steps:
 - ```cd apollo-graphql-example\application name```
 - ```uvicorn main:app --reload```
+## Insights
+
+For more details you open the specific README of the application
