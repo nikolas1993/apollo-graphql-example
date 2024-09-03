@@ -13,4 +13,4 @@ You can run an application using these steps:
 - ```uvicorn main:app --reload```
 ## Insights
 
-For more details you open the specific README of the application
+For more details you should open the specific README of the application
