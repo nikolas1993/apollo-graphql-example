@@ -1,7 +1,7 @@
 
 # Apollo GraphQL Example
 
-A examples and tutorials collection about Apollo GraphQL. The laguage used is python and the framework are:
+Examples and tutorials collection about Apollo GraphQL. The laguage used is python and the frameworks are:
 - FastAPI
 - Strawberry
 
